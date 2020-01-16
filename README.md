@@ -1,0 +1,3 @@
+# Employee_Absenteeism
+Data Science project for predicting employee absenteeism
+The aim of this project was to find the reasons for absenteeism among it's employees and to predict absenteeism in hours for the next year. The project makes use of both R and Python languages for exploratory data analysis as well as machine learning for making predictions. Python is used for ensemble modelling of various regression models like XGBoost, LightGBM etc. For time series analysis using ARIMA, R is used. The dataset, R and Python code, predictions (regression and time series predictions are given seperately) and final report is committed to the repository.
